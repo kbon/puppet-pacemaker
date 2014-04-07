@@ -1,0 +1,3 @@
+Configuration module for Pacemaker.
+Currently it only contains the Pacemaker service, but it should contain all
+crm commands which are currently in the corosync module.
